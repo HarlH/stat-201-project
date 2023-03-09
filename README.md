@@ -1,2 +1,4 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+Project repository for Stat 201
+
+Members: 
+Chan Le (74902354)
